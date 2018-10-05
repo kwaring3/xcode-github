@@ -10,3 +10,18 @@ import Foundation
 
 print("Hello, World!")
 
+//control flow
+
+let day = "Friday"
+
+if day == "Friday" {
+    print("The weekend is yours")
+} else {
+    print("Time to work")
+}
+
+//TODO: Practice writing Switch statements
+
+//TODO: Practice writing Tuples
+
+//Todo: Practice everything!!!!
